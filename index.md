@@ -2,8 +2,11 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+## Learning Objectives
 
+After attending this training, participants will be able to:
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
+- know how to add learning objectives to `index.md` 
+- identify and characterise the target audience for a lesson.
+- define SMART learning objectives.
 
